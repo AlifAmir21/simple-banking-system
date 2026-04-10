@@ -14,4 +14,4 @@ A simple command-line banking system built using Python.
 3. Run:
 
 ```bash
-python banking_program.py
+ ython BankingProg.py
